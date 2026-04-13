@@ -7,7 +7,7 @@
 </div>
 
 <div style="display: flex; gap: 18px; justify-content: center; margin-bottom: 28px;">
-  <a href="www.linkedin.com/in/francysberto-santos-299b563a7" target="_blank">
+  <a href="http://www.linkedin.com/in/francysberto-santos-299b563a7" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
