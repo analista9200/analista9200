@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 18px;">
   <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="Profissional GitHub">
-  <h1 style="font-size: 28px; margin: 10px 0;">It's a Professional Github</h1>
+  <h1 style="font-size: 28px; margin: 10px 0;">Profissional Github</h1>
   <p>Code for Live</p>
 </div>
 
