@@ -97,7 +97,7 @@
 
 <p> 🔗 <a style="" href="mainfelizanonovo.web.app" target="_blank">Feliz Ano Novo</a></p>
 
-🔹 **Website Front-end para contagem regressiva de ano novo!**  
+🔹 **Website Front-end Para uma Pastelaria de Pequeno Porte**  
 
 👉 Fiz esta Landing Page de uma pastelaria de um amigo meu, com base em um modelo já existente.
 
