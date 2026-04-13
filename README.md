@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Francysberto
+# 👋 Oi, Meu Nome é Francysberto
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 18px;">
   <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="Profissional GitHub">
@@ -49,7 +49,7 @@
 
 ---
 
-## 🌱 I’m currently learning and training ...
+## 🌱 Atualmente Estudando e Treinando...
 
 ---
 
