@@ -7,7 +7,7 @@
 </div>
 
 <div style="display: flex; gap: 18px; justify-content: center; margin-bottom: 28px;">
-  <a href="http://www.linkedin.com/in/francysberto-santos-299b563a7" target="_blank">
+  <a href="http://www.linkedin.com/in/francysberto-conceição-dos-santos-2061851a4/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
@@ -31,13 +31,15 @@
 
 ## 🛠️ Tecnologias mais utilizadas
 
-<div style="display: inline_block"><br>
+<div style="display: flex; flex-direction: row;"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+</div>
+<div>
+  https://credentials.databricks.com/d41bfba9-f44a-447f-a825-3d3ac04d26f6#acc.7bMCFlTS
 </div>
 
 ## 🚀 Sobre mim
@@ -103,6 +105,13 @@
 
 <p> 🔗 <a style="" href="pastelariasantorino.web.app" target="_blank">Pastelaria Santorino</a></p>
 
+🔹 **Website Front-end com idade relativa aos oitos planetas do sistema solar, inclusive a terra**  
+
+👉 Web site com sistema de login e banco de dados firestore, que calcula a idade da pessoa com base
+    na data de nascimento, e mostra a idade relativa em todos os 8 planetas do sistema solar.
+
+<p> 🔗 <a style="" href="ageplanets.web.app" target="_blank">Age Planets</a></p>
+
 ---
 
 ## 📫 Contato
@@ -112,7 +121,6 @@
 ---
 
 🧱 Obrigado por visitar meu perfil!
-
 
 <!--
 **analista9200/analista9200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -131,5 +139,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
     Oficial Toefl - Level 2 (992)
 - ⚡ Fun fact: ...
-    Quem nunca jogou Dota no World of Warcraft - the Frozen Throne!
+    Quem nunca jogou Dota no World of Warcraft - The Frozen Throne!
 -->
