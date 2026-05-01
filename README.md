@@ -10,10 +10,6 @@
   <a href="http://www.linkedin.com/in/francysberto-conceição-dos-santos-2061851a4/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  
-  <a href="mailto:analista9200@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
 </div>
 
 
@@ -31,16 +27,21 @@
 
 ## 🛠️ Tecnologias mais utilizadas
 
-<div style="display: flex; flex-direction: row;"><br>
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-<div>
-  https://credentials.databricks.com/d41bfba9-f44a-447f-a825-3d3ac04d26f6#acc.7bMCFlTS
-</div>
+<p align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</p>
+
+---
+
+## 🏆 Certificações
+
+- 🎓🔗 [**Databricks Certification**](https://credentials.databricks.com/d41bfba9-f44a-447f-a825-3d3ac04d26f6#acc.7bMCFlTS)
+
+---
 
 ## 🚀 Sobre mim
 
@@ -97,26 +98,26 @@
 
 👉 Ele reinicia automaticamente ano a ano, sem precisar de ação humana!
 
-<p> 🔗 <a style="" href="mainfelizanonovo.web.app" target="_blank">Feliz Ano Novo</a></p>
+<p> 🔗 <a style="" href="http://mainfelizanonovo.web.app" target="_blank">Feliz Ano Novo</a></p>
 
 🔹 **Website Front-end Para uma Pastelaria de Pequeno Porte**  
 
 👉 Fiz esta Landing Page de uma pastelaria de um amigo meu, com base em um modelo já existente.
 
-<p> 🔗 <a style="" href="pastelariasantorino.web.app" target="_blank">Pastelaria Santorino</a></p>
+<p> 🔗 <a style="" href="http://pastelariasantorino.web.app" target="_blank">Pastelaria Santorino</a></p>
 
 🔹 **Website Front-end com idade relativa aos oitos planetas do sistema solar, inclusive a terra**  
 
 👉 Web site com sistema de login e banco de dados firestore, que calcula a idade da pessoa com base
     na data de nascimento, e mostra a idade relativa em todos os 8 planetas do sistema solar.
 
-<p> 🔗 <a style="" href="ageplanets.web.app" target="_blank">Age Planets</a></p>
+<p> 🔗 <a style="" href="http://ageplanets.web.app" target="_blank">Age Planets</a></p>
 
 ---
 
 ## 📫 Contato
 
-- 📧 Email: analista9200@gmail.com
+- <p><code>analista9200@gmail.com</code></p>
 
 ---
 
