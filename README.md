@@ -6,12 +6,13 @@
   <p>Code for Live</p>
 </div>
 
+---
+
 <div style="display: flex; gap: 18px; justify-content: center; margin-bottom: 28px;">
   <a href="http://www.linkedin.com/in/francysberto-conceição-dos-santos-2061851a4/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</div>
-
+</div><br>
 
 🇧🇷 Brazil
 
@@ -100,11 +101,15 @@
 
 <p> 🔗 <a style="" href="http://mainfelizanonovo.web.app" target="_blank">Feliz Ano Novo</a></p>
 
+<br>
+
 🔹 **Website Front-end Para uma Pastelaria de Pequeno Porte**  
 
 👉 Fiz esta Landing Page de uma pastelaria de um amigo meu, com base em um modelo já existente.
 
 <p> 🔗 <a style="" href="http://pastelariasantorino.web.app" target="_blank">Pastelaria Santorino</a></p>
+
+<br>
 
 🔹 **Website Front-end com idade relativa aos oitos planetas do sistema solar, inclusive a terra**  
 
