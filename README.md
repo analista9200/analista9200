@@ -47,7 +47,7 @@
 
 ## 🌍 Certificação de Idiomas
 
-✅ Official TOEFL ITP® – Level 2
+✅ Official TOEFL ITP® – Level 2  
 📊 Score: A2 - 363 points.
 
 ---
