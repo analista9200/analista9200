@@ -20,9 +20,9 @@
 
 # 🚀 Filosofia
 
-> _"Não há algo a se pensar, Pense um pouco mais." — New York_
+> _"Sempre há algo à pensar, Pense um pouco mais." — New York_
 
-**Future - Senior Specialist Software Engineer | Node.js & DBA + IA**
+**Future - Senior Specialist | Big Data | Node.js & DBA | ML/IA**
 
 ---
 
@@ -30,6 +30,7 @@
 
 <p align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -44,24 +45,29 @@
 
 ---
 
+## 🌍 Certificação de Idiomas
+
+✅ Official TOEFL ITP® – Level 2
+📊 Score: A2 - 363 points.
+
+---
+
 ## 🚀 Sobre mim
 
-- 🎓 Sou Técnico de Informática, Estou cursando administração, também estudo técnico em ciência de dados, estou procurando aprender node.js e ter certificação com essa tecnologia.
-- 💻 Tenho algum tempo livre, então, durante o dia, eu estudo administração e também estudo pra concursos, durante o período noturno, eu aprendo ciência de dados presencial em uma escola do governo. não tenho muito tempo livre, então assim que terminar administração, eu irei começar engenharia de software, e quando eu terminar no periodo noturno o curso de ciencia de dados, eu irei, treinar e estudar para completar minha formação node.js, Full Stack.
-- 📊 Tenho interesse em me especializar em node.js com foco em fullstack + DBA e IA.
-- 🧠 "Statistics Thinking..."
+- 🎓 Sou Técnico de Informática, Estou cursando administração, também estudo técnico em ciência de dados, estou procurando aprender node.js e ter certificação com essa tecnologia, pretendo fazer pós em BI e Inteligência Artificial.
+- 💻 Possuo Interesse em ter certificação Node.js (Full-Stack) e DBA, desenvolver Inteligência Artificial e também estou aprendendo Ciência de Dados.
+- 📊  Futuro Fullstack + DBA e ML/IA + Ciência de Dados.
+- 🧠 "Certifying..."
 
 ---
 
 ## 🌱 Atualmente Estudando e Treinando...
 
----
-
 ### 🔜 Frontend
 
-✅ HTML
-✅ JScript
-✅ CSS
+✅ HTML  
+✅ JavaScript  
+✅ CSS  
 
 ---
 
@@ -76,7 +82,7 @@
 ### 🗄️ Banco de Dados
 
 ✅ SQL Server
-✅ My Sql
+✅ MySQL
 ✅ SQLite
 ✅ PostgreSQL
 ✅ JSON
@@ -84,12 +90,17 @@
 
 ---
 
-### DevOps & Tools
+### ⚡ Data Engineering & Big Data
 
-✅ VScode
-✅ Git
+✅ Apache Spark
+✅ PySpark
 
 ---
+
+### 🛠️ DevOps & Tools
+
+✅ VS Code
+✅ Git
 
 ## 💼 Projetos em destaque
 
@@ -141,9 +152,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
     I Have 2 Emails:
         analista9200@gmail.com
-        http://qgcsystem.web.app
 - 😄 Pronouns: ...
-    Oficial Toefl - Level 2 (992)
 - ⚡ Fun fact: ...
     Quem nunca jogou Dota no World of Warcraft - The Frozen Throne!
 -->
