@@ -65,35 +65,35 @@
 
 ### 🔜 Frontend
 
-✅ HTML  
-✅ JavaScript  
-✅ CSS  
+✅ HTML 
+✅ JavaScript 
+✅ CSS 
 
 ---
 
 ### 🔙 Backend
 
-✅ Node.js
-✅ Express
-✅ Python
+✅ Node.js 
+✅ Express 
+✅ Python 
 
 ---
 
 ### 🗄️ Banco de Dados
 
-✅ SQL Server
-✅ MySQL
-✅ SQLite
-✅ PostgreSQL
-✅ JSON
-✅ XML
+✅ SQL Server 
+✅ MySQL 
+✅ SQLite 
+✅ PostgreSQL 
+✅ JSON 
+✅ XML 
 
 ---
 
 ### ⚡ Data Engineering & Big Data
 
-✅ Apache Spark
-✅ PySpark
+✅ Apache Spark 
+✅ PySpark 
 
 ---
 
@@ -101,6 +101,8 @@
 
 ✅ VS Code
 ✅ Git
+
+---
 
 ## 💼 Projetos em destaque
 
