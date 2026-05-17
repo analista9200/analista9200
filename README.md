@@ -116,11 +116,11 @@
 
 <br>
 
-🔹 **Website Front-end Para uma Pastelaria de Pequeno Porte**  
+🔹 **Website Front-end Interessante**  
 
-👉 Fiz esta Landing Page de uma pastelaria de um amigo meu, com base em um modelo já existente.
+👉 Landing page, do sistema solar, vale a pena da uma olhada.
 
-<p> 🔗 <a style="" href="http://pastelariasantorino.web.app" target="_blank">Pastelaria Santorino</a></p>
+<p> 🔗 <a style="" href="http://qgcsystem.web.app" target="_blank">QGC System</a></p>
 
 <br>
 
