@@ -118,7 +118,7 @@
 
 🔹 **Website Front-end Interessante**  
 
-👉 Landing page, do sistema solar, vale a pena da uma olhada.
+👉 Landing page fictícia de um sistema de IA.
 
 <p> 🔗 <a style="" href="http://qgcsystem.web.app" target="_blank">QGC System</a></p>
 
