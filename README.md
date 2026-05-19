@@ -116,9 +116,9 @@
 
 <br>
 
-🔹 **Website Front-end Du, Dudu, Edu**  
+🔹 **Website Front-end Qgcsystem**  
 
-👉 Landing page simples.
+👉 Landing page de empresa fictícia de tecnologia da informação.
 
 <p> 🔗 <a style="" href="http://qgcsystem.web.app" target="_blank">QGC System</a></p>
 
