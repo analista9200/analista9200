@@ -116,9 +116,9 @@
 
 <br>
 
-🔹 **Website Front-end Interessante**  
+🔹 **Website Front-end Du, Dudu, Edu**  
 
-👉 Landing page fictícia de um sistema de IA.
+👉 Landing page simples.
 
 <p> 🔗 <a style="" href="http://qgcsystem.web.app" target="_blank">QGC System</a></p>
 
