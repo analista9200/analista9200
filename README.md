@@ -116,6 +116,14 @@
 
 <br>
 
+🔹 **Website Front-end de uma homenagem a Brasília em 66 anos**  
+
+👉 Esta landing page fazer uma homenagem a Brasília, capital federal em seus 66 anos, com esquema de cores que refletem a bandeira do Brasil.
+
+<p> 🔗 <a style="" href="http://qgcsystem.web.app" target="_blank">Pátria Amada Brasil</a></p>
+
+<br>
+
 🔹 **Website Front-end com idade relativa aos oitos planetas do sistema solar, inclusive a terra**  
 
 👉 Web site com sistema de login e banco de dados firestore, que calcula a idade da pessoa com base
