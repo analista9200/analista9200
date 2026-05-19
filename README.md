@@ -116,14 +116,6 @@
 
 <br>
 
-🔹 **Website Front-end Qgcsystem**  
-
-👉 Landing page de empresa fictícia de tecnologia da informação.
-
-<p> 🔗 <a style="" href="http://qgcsystem.web.app" target="_blank">QGC System</a></p>
-
-<br>
-
 🔹 **Website Front-end com idade relativa aos oitos planetas do sistema solar, inclusive a terra**  
 
 👉 Web site com sistema de login e banco de dados firestore, que calcula a idade da pessoa com base
